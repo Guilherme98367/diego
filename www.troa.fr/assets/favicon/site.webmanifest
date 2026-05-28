@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67debcdd2c1833cba216d60c713a0d3e583c309056454261ac479239dc6225c5
-size 464
+{
+    "name": "TROA",
+    "short_name": "TROA",
+    "icons": [
+        {
+            "src": "/assets/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#263069",
+    "background_color": "#263069",
+    "display": "standalone"
+}
